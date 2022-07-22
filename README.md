@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ACS-lessgo
-- 👀 I’m interested in AI/CCN/IOT
+- 👀 I’m interested in DS/CCN/IOT
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on DS/AI
 - 📫 How to reach me -_-
