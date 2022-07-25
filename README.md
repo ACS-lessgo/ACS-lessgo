@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ACS-lessgo
+- 👋 Hi, I’m Ankush C S @ACS-lessgo
 - 👀 I’m interested in DS/CCN/IOT
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on DS/AI
