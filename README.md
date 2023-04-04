@@ -2,7 +2,7 @@
  |---|---|
  |👀|’m interested in DS/CCN/IOT/Web-Development|
  |🌱| I’m currently learning DS|
- |💞️| I’m looking to collaborate on DS/AI|
+ |💞️| I’m looking to collaborate on DS/AI/Web-Development|
  |📫| How to reach me -_-|
 
 
