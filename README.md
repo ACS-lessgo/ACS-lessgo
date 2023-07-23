@@ -1,7 +1,7 @@
  |👋|Hi, I’m Ankush C S @ACS-lessgo|
  |---|---|
  |👀|’m interested in DS/CCN/IOT/Web-Development|
- |🌱| I’m currently learning DS|
+ |🌱| I’m currently learning Java|
  |💞️| I’m looking to collaborate on DS/AI/Web-Development|
  |📫| How to reach me -_-|
 
