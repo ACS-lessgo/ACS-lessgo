@@ -1,5 +1,4 @@
-
- |👋|Hi, I’m Ankush C S @ACS-lessgo|
+ |👋|                     Hi, I’m Ankush C S @ACS-lessgo|
  |---|---|
  |👀|’m interested in DS/CCN/IOT/Web-Development|
  |🌱| I’m currently learning Java|
