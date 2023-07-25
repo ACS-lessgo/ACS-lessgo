@@ -1,15 +1,25 @@
-<style>
-table {
-  font-family: "Courier New", monospace;
-}
-</style>
-
-| 👋   | Hi, I’m Ankush C S @ACS-lessgo        |
-|-----|------------------------------------|
-| 👀   | I’m interested in DS/CCN/IOT/Web-Development |
-| 🌱   | I’m currently learning Java         |
-| 💞️  | I’m looking to collaborate on DS/AI/Web-Development |
-| 📫   | How to reach me -_-                 |
+<table>
+  <tr>
+    <td>👋</td>
+    <td>Hi, I’m Ankush C S @ACS-lessgo</td>
+  </tr>
+  <tr>
+    <td>👀</td>
+    <td>I’m interested in DS/CCN/IOT/Web-Development</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>I’m currently learning Java</td>
+  </tr>
+  <tr>
+    <td>💞️</td>
+    <td>I’m looking to collaborate on DS/AI/Web-Development</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>How to reach me -_-</td>
+  </tr>
+</table>
 
 
 
