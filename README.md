@@ -17,7 +17,8 @@
   </tr>
   <tr>
     <td>📫</td>
-    <td>How to reach me [Try this](https://64c75b954de7b175f65190d6--reliable-macaron-63cd5d.netlify.app/)</td>
+    <td>How to reach me [Try this]
+      (https://64c75b954de7b175f65190d6--reliable-macaron-63cd5d.netlify.app/)</td>
   </tr>
 </table>
 
