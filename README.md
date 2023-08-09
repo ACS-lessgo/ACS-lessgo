@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>🌱</td>
-    <td>I’m currently learning Java</td>
+    <td>I’m currently learning Vue</td>
   </tr>
   <tr>
     <td>💞️</td>
