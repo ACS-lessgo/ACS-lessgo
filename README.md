@@ -12,6 +12,7 @@ A engineering graduate student looking for a fun and challenging job that will a
 *   🤝  I'm open to collaborating on Web development , AI/ML
 
 ### Skills 
+
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
 </p>
