@@ -23,10 +23,9 @@ A engineering graduate student looking for a fun and challenging job that will a
 <code><img title="SASS" height="25" src="images/sass.svg"></code>
 <code><img title="Java" height="25" src="images/java-original.svg"></code>
 
-<code><img title="Vue" height="25" src="images/vue-original.svg"></code>
+<code><img title="Vue" height="25" src="images/vue-svgrepo-com.svg"></code>
 <code><img title="NodeJS" height="25" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code>
 <code><img title="Express" height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"></code>
-
 
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
