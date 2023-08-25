@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-A engineering graduate student looking for a fun and challenging job that will allow me to test and grow my skills and also gain the required practical experience while also motivating me to add value to the organization.
+As a web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.
 
 *   🌍  I'm based in India , Banglore
 *   ✉️  You can contact me at [royalcs379@gmail.com](mailto:royalcs379@gmail.com)
