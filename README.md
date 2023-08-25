@@ -31,6 +31,7 @@ As a web developer, I am committed to advancing my expertise in the realm of web
 
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<code><img title="Arduino IDE" height="25" src="images/Arduino_Logo.svg.png"></code>
 
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
