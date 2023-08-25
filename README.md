@@ -22,6 +22,8 @@ As a web developer, I am committed to advancing my expertise in the realm of web
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="SASS" height="25" src="images/sass.svg"></code>
 <code><img title="Java" height="25" src="images/java-original.svg"></code>
+<code><img title="Python" height="25" src="images/python-svgrepo-com"></code>
+<code><img title="Java" height="25" src="images/c-"></code>
 
 <code><img title="Vue" height="25" src="images/vue-svgrepo-com.svg"></code>
 <code><img title="NodeJS" height="25" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code>
