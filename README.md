@@ -42,7 +42,7 @@ A engineering graduate student looking for a fun and challenging job that will a
                   
 <p align="left"> <a href="https://www.github.com/ACS-lessgo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 <!--   <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="images/linkedin.svg" width="32" height="32" /> </picture> </a></p> -->
-  <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
 
 ### Badges
 
