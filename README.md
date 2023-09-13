@@ -47,7 +47,7 @@ As a web developer, I am committed to advancing my expertise in the realm of web
 <!--   <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="images/linkedin.svg" width="32" height="32" /> </picture> </a></p> -->
   <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" title="LinkedIn Profile"><img width="32" height="32" src="images/linkedin.svg"></a></code>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACS-lessgo&label=Profile%20views&color=0e75b6&style=flat" alt="ACS-lessgo" /> </p>
-### Badges
+###  Badges
 
 <b>My GitHub Stats</b>
 
