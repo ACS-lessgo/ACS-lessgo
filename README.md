@@ -10,7 +10,7 @@ As a web developer, I am committed to advancing my expertise in the realm of web
 *   ✉️  You can contact me at [royalcs379@gmail.com](mailto:royalcs379@gmail.com)
 *   🧠  I'm learning UWA
 *   🤝  I'm open to collaborating on Web development , AI/ML
-
+* <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACS-lessgo&label=Profile%20views&color=0e75b6&style=flat" alt="ACS-lessgo" /> </p>
 ### Skills 
 
 <p align="left">
