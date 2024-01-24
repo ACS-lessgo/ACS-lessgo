@@ -8,8 +8,8 @@ As a web developer, I am committed to advancing my expertise in the realm of web
 
 *   🌍  I'm based in India , Banglore
 *   ✉️  You can contact me at [royalcs379@gmail.com](mailto:royalcs379@gmail.com)
-*   🧠  I'm learning UWA
-*   🤝  I'm open to collaborating on Web development , AI/ML
+*   🧠  I'm learning DP
+*   🤝  I'm open to collaborating on Web development.
 ### Skills 
 
 <p align="left">
