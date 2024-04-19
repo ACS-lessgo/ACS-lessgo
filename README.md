@@ -1,58 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ankush C S
-==================================================================================================================================
+# 💫 About Me:
+As a web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.<br><br>🌍 I'm based in India , Banglore<br>✉️ You can contact me at royalcs379@gmail.com<br>🧠 I'm learning DP<br>🤝 I'm open to collaborating on Web development.
 
-Web developer
--------------
 
-As a web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankush-c-s-7b9305241/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Madara_Draco/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/_gipsyDang4r) 
 
-*   🌍  I'm based in India , Banglore
-*   ✉️  You can contact me at [royalcs379@gmail.com](mailto:royalcs379@gmail.com)
-*   🧠  I'm learning DP
-*   🤝  I'm open to collaborating on Web development.
-### Skills 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ACS-lessgo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ACS-lessgo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACS-lessgo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-<p align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=ACS-lessgo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="SASS" height="25" src="images/sass.svg"></code>
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
-<code><img title="Python" height="25" src="images/python-svgrepo-com.svg"></code>
-<code><img title="C++" height="25" src="images/c-.png"></code>
-
-<code><img title="Vue" height="25" src="images/vue-svgrepo-com.svg"></code>
-<code><img title="NodeJS" height="25" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"></code>
-<code><img title="Express" height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"></code>
-<code><img title="SQL" height="25" src="images/sql-server.png"></code>
-<code><img title="Linux" height="25" src="images/linux.png"></code>
-
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="Arduino IDE" height="25" src="images/Arduino_Logo.svg.png"></code>
-
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="npm" height="25" src="images/npm.svg"></code>
-
-</p>
-</p>
-                    
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/ACS-lessgo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<!--   <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="images/linkedin.svg" width="32" height="32" /> </picture> </a></p> -->
-  <a href="https://www.linkedin.com/in/ankush-c-s-7b9305241" title="LinkedIn Profile"><img width="32" height="32" src="images/linkedin.svg"></a></code>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ACS-lessgo&label=Profile%20views&color=0e75b6&style=flat" alt="ACS-lessgo" /> </p>
-### Badges 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ACS-lessgo"><img src="https://github-readme-stats.vercel.app/api?username=ACS-lessgo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ACS-lessgo's GitHub stats" /></a>
-
-<a href="http://www.github.com/ACS-lessgo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ACS-lessgo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ACS-lessgo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACS-lessgo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
