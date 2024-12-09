@@ -1,10 +1,10 @@
 # 💫 About Me:
 With good knowledge in both backend and frontend development, I focus on building APIs in Java while creating Vue.js widgets. I aim to optimize user workflows and interfaces, ensuring efficient solutions.
 
-🌍 I'm based in Bangalore, India
-✉️ You can contact me at ankushcs3327@gmail.com
-🧠 I'm learning SpringBoot
-🤝 I'm open to collaborating on Web development
+- 🌍 I'm based in Bangalore, India
+- ✉️ You can contact me at ankushcs3327@gmail.com
+- 🧠 I'm learning SpringBoot
+- 🤝 I'm open to collaborating on Web development
 
 
 ## 🌐 Socials:
