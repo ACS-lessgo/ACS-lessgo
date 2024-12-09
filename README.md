@@ -1,5 +1,10 @@
 # 💫 About Me:
-As a web developer, I am committed to advancing my expertise in the realm of web development. Armed with a solid background in coding and a deep appreciation for creating seamless and aesthetically pleasing websites, I am prepared to put my skills into practice within a professional context.<br><br>🌍 I'm based in India , Banglore<br>✉️ You can contact me at royalcs379@gmail.com<br>🧠 I'm learning DP<br>🤝 I'm open to collaborating on Web development.
+With good knowledge in both backend and frontend development, I focus on building APIs and triggers in Java while creating Vue.js widgets. I aim to optimize user workflows and interfaces, ensuring efficient solutions.
+
+🌍 I'm based in Bangalore, India
+✉️ You can contact me at ankushcs3327@gmail.com
+🧠 I'm learning SpringBoot
+🤝 I'm open to collaborating on Web development
 
 
 ## 🌐 Socials:
