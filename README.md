@@ -1,5 +1,5 @@
 # 💫 About Me:
-With good knowledge in both backend and frontend development, I focus on building APIs in Java while creating Vue.js widgets. I aim to optimize user workflows and interfaces, ensuring efficient solutions.
+I'm a full-stack developer</span> with a proven ability to build high-quality web applications. I excel in designing and developing RESTful APIs using Java/Spring Boot, while simultaneously crafting user-interfaces  with VueJS. My goal is to create seamless and efficient user experiences that drive positive outcomes.
 
 - 🌍 I'm based in Bangalore, India
 - ✉️ You can contact me at ankushcs3327@gmail.com
