@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack developer</span> with a proven ability to build high-quality web applications. I excel in designing and developing RESTful APIs using Java/Spring Boot, while simultaneously crafting user-interfaces  with VueJS. My goal is to create seamless and efficient user experiences that drive positive outcomes.
+I'm a software engineer with a proven ability to build high-quality web applications. I excel in designing and developing RESTful APIs using Java/Spring Boot, while simultaneously crafting user interfaces with VueJS. My goal is to create seamless and efficient user experiences that drive positive outcomes.
 
 - 🌍 I'm based in Bangalore, India
 - ✉️ You can contact me at ankushcs3327@gmail.com
